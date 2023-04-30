@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Fake News Detection using Deep Learning
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning and MySQL**
 - 💬 Ask me about  - Aircrafts, python and Machine Learning
-- 📫 How to reach me: @ans_photography_23 (instagram)
+- 📫 How to reach me: @anshu._.kushwah (instagram)
 - 😄 Pronouns: she/her
