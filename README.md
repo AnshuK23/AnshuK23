@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning and MySQL**
-- 💬 Ask me about  - Aircrafts, python and Machine Learning
-- 📫 How to reach me: @anshu._.kushwah (instagram)
+- 🌱 I’m currently learning **Java, Machine Learning, Deep Learning and DSA**
+- 💬 Ask me about  - Aircrafts, python,MySQL and Machine Learning
+- 📫 How to reach me: @anshukushwah2003 (instagram)
 - 😄 Pronouns: she/her
